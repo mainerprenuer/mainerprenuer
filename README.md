@@ -79,7 +79,7 @@
 - [Why and How we migrated to Nx from Angular CLI](https://dev.to/this-is-angular/why-and-how-we-migrated-to-nx-from-angular-cli-5a61)
 <!-- BLOG-POST-LIST:END -->
 
-# Recent GitHub Activity
+<!-- # Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#10](https://github.com/santoshyadavdev/santoshyadavdev/issues/10) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
 2. 🗣 Commented on [#10](https://github.com/santoshyadavdev/santoshyadavdev/issues/10) in [santoshyadavdev/santoshyadavdev](https://github.com/santoshyadavdev/santoshyadavdev)
@@ -87,7 +87,7 @@
 4. 🎉 Merged PR [#47](https://github.com/santoshyadavdev/angular-snippets/pull/47) in [santoshyadavdev/angular-snippets](https://github.com/santoshyadavdev/angular-snippets)
 5. 🗣 Commented on [#46](https://github.com/santoshyadavdev/angular-snippets/issues/46) in [santoshyadavdev/angular-snippets](https://github.com/santoshyadavdev/angular-snippets)
 <!--END_SECTION:activity-->
- -->
+ --> -->
 <!--
 **mainerprenuer/mainerprenuer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
