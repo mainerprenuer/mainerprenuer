@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Hi there, I'm [Santosh Yadav!](https://santoshyadav.dev) 👋
+<!-- ### Hi there, I'm [Santosh Yadav!](https://santoshyadav.dev) 👋
 
 <p>
 <a href="https://twitter.com/SantoshYadavDev">
@@ -87,7 +87,7 @@
 4. 🎉 Merged PR [#47](https://github.com/santoshyadavdev/angular-snippets/pull/47) in [santoshyadavdev/angular-snippets](https://github.com/santoshyadavdev/angular-snippets)
 5. 🗣 Commented on [#46](https://github.com/santoshyadavdev/angular-snippets/issues/46) in [santoshyadavdev/angular-snippets](https://github.com/santoshyadavdev/angular-snippets)
 <!--END_SECTION:activity-->
-
+ -->
 <!--
 **mainerprenuer/mainerprenuer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
