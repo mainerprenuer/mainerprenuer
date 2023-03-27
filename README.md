@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [e-Wallet App](e-Wallet App)
 
-- 👨‍💻 All of my projects are available at [abokintech.vercel.app](abokintech.vercel.app)
+- 👨‍💻 All of my projects are available at [https://abokintech.vercel.app](abokintech.vercel.app)
 
 - 📝 I regularly write articles on [https://dev.to/abokintech](https://dev.to/abokintech)
 
