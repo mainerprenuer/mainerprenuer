@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Kebbi IT School](kebbiithub.vercel.app)
 
-- 🌱 I’m currently learning **React, Nestjs and Flutter**
+- 🌱 I’m currently learning **React, Nextjs and AI**
 
 - 👯 I’m looking to collaborate on [e-Wallet App](https://github.com/mainerprenuer/walletapp-api)
 
