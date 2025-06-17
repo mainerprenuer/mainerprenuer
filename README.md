@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/moustymainer" target="blank"><img src="https://img.shields.io/twitter/follow/moustymainer?logo=twitter&style=for-the-badge" alt="moustymainer" /></a> </p>
 
-- 🔭 I’m currently working on [Farm plug](farm-plug.vercel.app)
+- 🔭 I’m currently working on [Kebbi IT School](kebbiithub.vercel.app)
 
 - 🌱 I’m currently learning **React, Nestjs and Flutter**
 
@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/abokintech](https://dev.to/abokintech)
 
-- 💬 Ask me about **React, Nextjs and Nestjs**
+- 💬 Ask me about **React, Nextjs and AI**
 
 - 📫 How to reach me **moustymainer@gmail.com**
 
