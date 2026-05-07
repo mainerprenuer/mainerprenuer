@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/moustymainer" target="blank"><img src="https://img.shields.io/twitter/follow/moustymainer?logo=twitter&style=for-the-badge" alt="moustymainer" /></a> </p>
 
-- 🔭 I’m currently working on [Kebbi IT School](k-hub-connect.vercel.app)
+- 🔭 I’m currently working on [Kebbi IT School](https://k-hub-connect.vercel.app)
 
 - 🌱 I’m currently learning **React, Nextjs and AI**
 
@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with [e-Wallet App](e-Wallet App)
 
-- 👨‍💻 All of my projects are available at [https://mustapha-abubakar.vercel.app)
+- 👨‍💻 All of my projects are available at (https://mustapha-abubakar.vercel.app)
 
 - 📝 I regularly write articles on [https://dev.to/abokintech](https://dev.to/abokintech)
 
